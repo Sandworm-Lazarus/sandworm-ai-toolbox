@@ -10,6 +10,15 @@ A directory of practical AI tools and frameworks, from personal agents and local
 
 [ภาษาไทย](README.th.md) · [Tools](TOOLS.md) · [Start here](docs/start-here.md) · [Sources](SOURCES.md) · [Collection hub](https://github.com/Sandworm-Lazarus/sandworm-arsenal)
 
+## Original tool: AI Workload Budget Calculator
+
+Authored implementation, documented inputs and synthetic regression fixtures. [Guide](docs/original-tool.md) · [Original work](ORIGINAL_WORK.md).
+
+```bash
+python3 scripts/ai_budget.py examples/workload.json
+python3 -m unittest discover -s tests -v
+```
+
 ## What is inside
 
 | Tool category | Projects |
