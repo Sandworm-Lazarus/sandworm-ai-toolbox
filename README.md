@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Sandworm AI Toolbox" width="100%"></p>
 
-<p align="center"><b>44 AI tools · 16 categories · 44 source repositories</b></p>
+<p align="center"><b>48 AI tools · 19 categories · 48 source repositories</b></p>
 
 # Sandworm AI Toolbox
 
@@ -15,7 +15,7 @@ A directory of practical AI tools and frameworks, from personal agents and local
 | Tool category | Projects |
 | --- | ---: |
 | Personal agents | 2 |
-| Agent frameworks | 4 |
+| Agent frameworks | 5 |
 | Visual workflows | 3 |
 | Local inference | 4 |
 | Chat workspaces | 2 |
@@ -30,6 +30,9 @@ A directory of practical AI tools and frameworks, from personal agents and local
 | Observability | 2 |
 | Model gateways | 1 |
 | AI evaluation | 2 |
+| MCP development | 1 |
+| AI application SDKs | 1 |
+| Privacy & data handling | 1 |
 
 ## Use the collection
 

@@ -8,9 +8,9 @@ Snapshot: **2026-11-11** · `2026-11-11-sandworm-ai-toolbox`
 | --- | ---: |
 | Skill entries | 0 |
 | Skill collections | 0 |
-| Companion tools | 44 |
-| Tool categories | 16 |
-| Source repositories | 44 |
+| Companion tools | 48 |
+| Tool categories | 19 |
+| Source repositories | 48 |
 | Entry-reviewed | 0 |
 | Entry-overview | 0 |
 | Runtime-tested upstream skills | 0 |
