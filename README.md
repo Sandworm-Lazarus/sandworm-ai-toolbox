@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Sandworm AI Toolbox" width="100%"></p>
 
-<p align="center"><b>0 skill entries · 44 tools · 44 source repositories</b></p>
+<p align="center"><b>44 AI tools · 16 categories · 44 source repositories</b></p>
 
 # Sandworm AI Toolbox
 
@@ -47,7 +47,7 @@ On Windows, use `py -3` if `python3` is unavailable.
 
 ## Evidence and reuse
 
-Entry and Overview labels retain the inspection scope from the original research. Tool records are README overviews. No upstream installation, runtime certification, or benchmark result is claimed. [Review coverage](docs/review-status.md) records this collection's counts.
+Tool records retain the README and license-overview scope from the original research. No upstream installation, runtime certification, or benchmark result is claimed. [Review coverage](docs/review-status.md) records this collection's counts.
 
 Original summaries, artwork, CLI and guides are [MIT licensed](LICENSE). Linked projects retain their own licenses; inspect [source/license notes](SOURCES.md) before copying or deploying external packages. This collection contains original curation and links, not upstream bundles.
 

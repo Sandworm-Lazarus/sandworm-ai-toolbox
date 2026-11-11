@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Sandworm AI Toolbox" width="100%"></p>
 
-<p align="center"><b>0 skill entries · 44 tools · 44 source repositories</b></p>
+<p align="center"><b>44 AI tools · 16 categories · 44 source repositories</b></p>
 
 # Sandworm AI Toolbox
 
@@ -8,7 +8,7 @@
 
 [English](README.md) · [Tools](TOOLS.md) · [Start here](docs/start-here.md) · [Sources](SOURCES.md) · [หน้ารวมทุกคลัง](https://github.com/Sandworm-Lazarus/sandworm-arsenal)
 
-คลังนี้มีสกิล 0 entries และเครื่องมือ 44 ตัว พร้อมลิงก์ที่ตรึง commit และคำอธิบายการใช้งาน อ่าน [เส้นทางเริ่มต้น](docs/start-here.md) เพื่อเลือกตามโจทย์
+คลังนี้รวมเครื่องมือ AI 44 ตัว พร้อมลิงก์ที่ตรึง commit และคำอธิบายการใช้งาน อ่าน [เส้นทางเริ่มต้น](docs/start-here.md) เพื่อเลือกตามโจทย์
 
 ## ค้นหาและตรวจข้อมูล
 
