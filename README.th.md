@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Sandworm AI Toolbox" width="100%"></p>
 
-<p align="center"><b>48 AI tools · 19 categories · 48 source repositories</b></p>
+<p align="center"><b>49 AI tools · 19 categories · 49 source repositories</b></p>
 
 # Sandworm AI Toolbox
 
@@ -8,7 +8,7 @@
 
 [English](README.md) · [Tools](TOOLS.md) · [Start here](docs/start-here.md) · [Sources](SOURCES.md) · [หน้ารวมทุกคลัง](https://github.com/Sandworm-Lazarus/sandworm-arsenal)
 
-คลังนี้รวมเครื่องมือ AI 48 ตัว พร้อมลิงก์ที่ตรึง commit และคำอธิบายการใช้งาน อ่าน [เส้นทางเริ่มต้น](docs/start-here.md) เพื่อเลือกตามโจทย์
+คลังนี้รวมเครื่องมือ AI 49 ตัว พร้อมลิงก์ที่ตรึง commit และคำอธิบายการใช้งาน อ่าน [เส้นทางเริ่มต้น](docs/start-here.md) เพื่อเลือกตามโจทย์
 
 ## เครื่องมือที่พัฒนาเอง: AI Workload Budget Calculator
 

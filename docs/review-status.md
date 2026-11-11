@@ -8,9 +8,9 @@ Snapshot: **2026-11-11** · `2026-11-11-mcp-typescript-privacy-sandworm-ai-toolb
 | --- | ---: |
 | Skill entries | 0 |
 | Skill collections | 0 |
-| Companion tools | 48 |
+| Companion tools | 49 |
 | Tool categories | 19 |
-| Source repositories | 48 |
+| Source repositories | 49 |
 | Entry-reviewed | 0 |
 | Entry-overview | 0 |
 | Runtime-tested upstream skills | 0 |

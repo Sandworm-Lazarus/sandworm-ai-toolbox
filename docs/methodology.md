@@ -1,6 +1,6 @@
 # Methodology
 
-This focused collection derives from the `2026-11-11-mcp-typescript-privacy` research snapshot in the Sandworm Arsenal hub. It contains 0 skill entries and 48 tools from 48 repositories. Stable entry IDs, pinned revisions, blob identities and scope labels are retained.
+This focused collection derives from the `2026-11-11-mcp-typescript-privacy` research snapshot in the Sandworm Arsenal hub. It contains 0 skill entries and 49 tools from 49 repositories. Stable entry IDs, pinned revisions, blob identities and scope labels are retained. agent-qa was added from a separate README/license overview on 2026-11-11; no upstream code was run.
 
 `entry-reviewed` records an entry-file read with selected supporting evidence. `entry-overview` records frontmatter and an opening excerpt. `readme-overview` records introductory tool README/license inspection. None means that every bundled file was reviewed or that external code was executed.
 
