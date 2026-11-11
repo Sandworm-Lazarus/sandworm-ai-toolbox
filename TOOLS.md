@@ -4,7 +4,7 @@
 
 These are executable tools and frameworks, counted separately from agent skills. Their README/source overviews were inspected; this repository has not installed or run them. Links point to the recorded revision.
 
-**48 tools and frameworks in 19 groups.** See [start here](docs/start-here.md) for task-oriented selections.
+**49 tools and frameworks in 19 groups.** See [start here](docs/start-here.md) for task-oriented selections.
 
 | Group | Tools |
 | --- | ---: |
@@ -14,7 +14,7 @@ These are executable tools and frameworks, counted separately from agent skills.
 | [Local inference](#local-inference) | 4 |
 | [Chat workspaces](#chat-workspaces) | 2 |
 | [Agent memory](#agent-memory) | 2 |
-| [Browser automation](#browser-automation) | 3 |
+| [Browser automation](#browser-automation) | 4 |
 | [Document ingestion](#document-ingestion) | 5 |
 | [RAG & vector search](#rag-vector-search) | 3 |
 | [Voice & audio](#voice-audio) | 4 |
@@ -97,6 +97,7 @@ These are executable tools and frameworks, counted separately from agent skills.
 | [Browser Use](https://github.com/browser-use/browser-use/tree/7fdd63c03fd342aab4fe44507c77c3221ffd43c6) | ให้ Agent โต้ตอบ browser จริงและอ่านผลผ่าน browser harness | Python/browser runtime และ LLM provider หรือ hosted service. Local library กับ Cloud เป็นคนละ deployment; session/cookies และ tool permissions ต้องตรงงาน |
 | [Stagehand](https://github.com/browserbase/stagehand/tree/c8e096cb83b6c06ad73e49583fb79a87e78bdd3c) | ใช้ observe, act และ schema-based extraction ใน browser automation | JS/TS หรือ Python SDK, browser และ model provider. มี local browser และ hosted options; ตรวจ data path ของ page content และ screenshots |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern/tree/26d2722b0fc9c7f3246389bdf7385ef18862b242) | ทำ browser workflows ด้วย vision/LLM และ workflow builder | Browser runtime, app services และ model access. AGPL-3.0 ใน source; local/Cloud ไม่ควรถูกสมมติว่ามี feature parity |
+| [agent-qa](https://github.com/vostride/agent-qa/tree/43618211636159a6fc6086cac90101e448ed8a63) | QA สำหรับเว็บและแอปมือถือผ่าน CLI/MCP พร้อมหน่วยความจำ memidex และการปรับปรุงตนเองที่ผ่านการตรวจสอบ | Node.js 24+, โมเดลที่ตั้งค่าไว้ และ browser/device runtime ตามแพลตฟอร์ม. [vostride](https://vostride.com): เก็บหลักฐานแต่ละขั้นตอนและภาพหน้าจอ; FSL-1.1-ALv2 มีข้อจำกัด competing use; local use ที่ได้รับอนุญาตไม่มีค่า software ส่วน model/infrastructure คิดแยก; อ่าน README/ใบอนุญาตเท่านั้น ยังไม่ได้รัน |
 
 <a id="document-ingestion"></a>
 

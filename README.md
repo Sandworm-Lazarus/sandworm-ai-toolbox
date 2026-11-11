@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/banner.svg" alt="Sandworm AI Toolbox" width="100%"></p>
 
-<p align="center"><b>48 AI tools · 19 categories · 48 source repositories</b></p>
+<p align="center"><b>49 AI tools · 19 categories · 49 source repositories</b></p>
 
 # Sandworm AI Toolbox
 
@@ -29,7 +29,7 @@ python3 -m unittest discover -s tests -v
 | Local inference | 4 |
 | Chat workspaces | 2 |
 | Agent memory | 2 |
-| Browser automation | 3 |
+| Browser automation | 4 |
 | Document ingestion | 5 |
 | RAG & vector search | 3 |
 | Voice & audio | 4 |

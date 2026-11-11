@@ -2,7 +2,7 @@
 
 [Home](README.md) · [Skill catalog](CATALOG.md) · [Reuse notes](docs/attribution.md)
 
-Snapshot: **2026-11-11**. The 48 sources include skill collections, tools and frameworks. License descriptions apply to the inspected snapshot and scope; follow the linked texts before reuse.
+Snapshot: **2026-11-11**. The 49 sources include skill collections, tools and frameworks. License descriptions apply to the inspected snapshot and scope; follow the linked texts before reuse.
 
 Generated from `catalog/arsenal.json` with `python3 scripts/arsenal.py render`.
 
@@ -56,6 +56,7 @@ Generated from `catalog/arsenal.json` with `python3 scripts/arsenal.py render`.
 | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) · [59a60e42](https://github.com/mastra-ai/mastra/tree/59a60e42d5985980d1a36cf0bcddeead09283703) | [Apache-2.0 outside ee directories; separate enterprise terms](https://github.com/mastra-ai/mastra/blob/59a60e42d5985980d1a36cf0bcddeead09283703/LICENSE.md) | Apache core แยก ee directories; ทดลอง suspend/resume และ retry ด้วย task สังเคราะห์ |
 | [vercel/ai](https://github.com/vercel/ai) · [70e45d58](https://github.com/vercel/ai/tree/70e45d5878494be4b66e325187f865951025059e) | [Apache-2.0](https://github.com/vercel/ai/blob/70e45d5878494be4b66e325187f865951025059e/LICENSE) | String model ID อาจเลือก Vercel AI Gateway; adapter โดยตรงเป็นอีกเส้นทาง ต้องบันทึก provider/billing route |
 | [data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio) · [1d700593](https://github.com/data-privacy-stack/presidio/tree/1d7005932261a4b676e045d16fa2965dbc4b4ba2) | [MIT](https://github.com/data-privacy-stack/presidio/blob/1d7005932261a4b676e045d16fa2965dbc4b4ba2/LICENSE) | ใช้ canonical community repository; ทดสอบข้อมูลภาษาไทยและ false negatives จริง การตรวจอัตโนมัติไม่รับรองว่าพบ PII ครบ |
+| [vostride/agent-qa](https://github.com/vostride/agent-qa) · [43618211](https://github.com/vostride/agent-qa/tree/43618211636159a6fc6086cac90101e448ed8a63) | [FSL-1.1-ALv2 (competing-use restrictions; Apache-2.0 after two years)](https://github.com/vostride/agent-qa/blob/43618211636159a6fc6086cac90101e448ed8a63/LICENSE.md) | QA ผ่าน CLI/MCP สำหรับเว็บและมือถือ; FSL-1.1-ALv2 จำกัด competing use; [vostride](https://vostride.com) |
 
 ## Supporting files read in the initial focused review
 

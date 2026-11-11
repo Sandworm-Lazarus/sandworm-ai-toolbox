@@ -1,7 +1,7 @@
 {
   "as_of": "2026-11-11",
   "timezone": "Asia/Bangkok",
-  "scope": "Focused collection: 0 skill entries and 48 tools. Original review levels retained. No upstream runtime testing.",
+  "scope": "Focused collection: 0 skill entries and 49 tools. Original review levels retained; agent-qa README/license overview added 2026-11-11. No upstream runtime testing.",
   "sources": [
     {
       "repo": "NousResearch/hermes-agent",
@@ -858,6 +858,24 @@
       "category": "Privacy & data handling",
       "note": "ใช้ canonical community repository; ทดสอบข้อมูลภาษาไทยและ false negatives จริง การตรวจอัตโนมัติไม่รับรองว่าพบ PII ครบ",
       "recommendation": "README/license overview; not runtime-tested"
+    },
+    {
+      "repo": "vostride/agent-qa",
+      "url": "https://github.com/vostride/agent-qa",
+      "commit": "43618211636159a6fc6086cac90101e448ed8a63",
+      "license": "FSL-1.1-ALv2 (competing-use restrictions; Apache-2.0 after two years)",
+      "license_path": "LICENSE.md",
+      "license_url": "https://github.com/vostride/agent-qa/blob/43618211636159a6fc6086cac90101e448ed8a63/LICENSE.md",
+      "license_blob_sha": "7c7bb3a35491ce8d726440257f911bec6f4af0a9",
+      "readme_url": "https://github.com/vostride/agent-qa/blob/43618211636159a6fc6086cac90101e448ed8a63/README.md",
+      "readme_blob_sha": "8202037bc0bed5dc6171a856ff27c590ce8e4a40",
+      "archived": false,
+      "fork": false,
+      "parent": null,
+      "kind": "tool",
+      "category": "Browser automation",
+      "note": "QA ผ่าน CLI/MCP สำหรับเว็บและมือถือ; FSL-1.1-ALv2 จำกัด competing use; [vostride](https://vostride.com)",
+      "recommendation": "README overview; not runtime-tested"
     }
   ],
   "skills": [],
@@ -1436,6 +1454,18 @@
       "requires": "Python, NLP/recognizer dependencies และ anonymization policy ตามข้อมูล",
       "note": "ใช้ canonical community repository; ทดสอบข้อมูลภาษาไทยและ false negatives จริง การตรวจอัตโนมัติไม่รับรองว่าพบ PII ครบ",
       "url": "https://github.com/data-privacy-stack/presidio/tree/1d7005932261a4b676e045d16fa2965dbc4b4ba2",
+      "runtime_tested": false,
+      "review_level": "readme-overview",
+      "reviewed_at": "2026-11-11"
+    },
+    {
+      "repo": "vostride/agent-qa",
+      "name": "agent-qa",
+      "group": "Browser automation",
+      "purpose": "QA สำหรับเว็บและแอปมือถือผ่าน CLI/MCP พร้อมหน่วยความจำ memidex และการปรับปรุงตนเองที่ผ่านการตรวจสอบ",
+      "requires": "Node.js 24+, โมเดลที่ตั้งค่าไว้ และ browser/device runtime ตามแพลตฟอร์ม",
+      "note": "[vostride](https://vostride.com): เก็บหลักฐานแต่ละขั้นตอนและภาพหน้าจอ; FSL-1.1-ALv2 มีข้อจำกัด competing use; local use ที่ได้รับอนุญาตไม่มีค่า software ส่วน model/infrastructure คิดแยก; อ่าน README/ใบอนุญาตเท่านั้น ยังไม่ได้รัน",
+      "url": "https://github.com/vostride/agent-qa/tree/43618211636159a6fc6086cac90101e448ed8a63",
       "runtime_tested": false,
       "review_level": "readme-overview",
       "reviewed_at": "2026-11-11"
